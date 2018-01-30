@@ -11,7 +11,7 @@ https://github.com/brade31919/SRGAN-tensorflow
 
 https://arxiv.org/pdf/1704.02470v1.pdf 
 
-## ZDONGHAO : SRGAN
+## ZSDONGHAO : SRGAN
 
 Pas mal de modifs à faire et pas très clair pour le faire marcher
 
